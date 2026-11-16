@@ -1,0 +1,9 @@
+langchain
+langgraph
+langchain-community
+langchain-groq
+fastmcp
+sqlalchemy
+pymysql
+pydantic
+python-dotenv
